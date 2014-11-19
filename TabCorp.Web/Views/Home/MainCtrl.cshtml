@@ -1,0 +1,16 @@
+﻿
+<label for="results">Race Results:</label>
+<input id="results" type="text" ng-model="raceResults"/> 
+<br/>
+<label for="bets">Bets:</label>
+<br>
+<textarea id="bets" class="bet-inputs" rows="20" cols="100" ng-model="bets">
+    
+</textarea>
+<br>
+<button ng-click="calculateBets()">Calculate Dividends</button>
+<br/>
+<div ng-show="dividendResults"><strong>Dividends</strong></div>
+<div ng-repeat="dividendResult in dividendResults">
+    <span>{{dividendResult}}</span>
+</div>

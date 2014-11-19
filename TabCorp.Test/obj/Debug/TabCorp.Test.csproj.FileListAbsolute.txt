@@ -1,0 +1,7 @@
+c:\Users\josh\documents\visual studio 2013\Projects\TapCorp\TabCorp.Test\bin\Debug\TabCorp.Test.dll
+c:\Users\josh\documents\visual studio 2013\Projects\TapCorp\TabCorp.Test\bin\Debug\TabCorp.Test.pdb
+c:\Users\josh\documents\visual studio 2013\Projects\TapCorp\TabCorp.Test\bin\Debug\DividendCalculatorService.dll
+c:\Users\josh\documents\visual studio 2013\Projects\TapCorp\TabCorp.Test\bin\Debug\DividendCalculatorService.pdb
+c:\Users\josh\documents\visual studio 2013\Projects\TapCorp\TabCorp.Test\obj\Debug\TabCorp.Test.csprojResolveAssemblyReference.cache
+c:\Users\josh\documents\visual studio 2013\Projects\TapCorp\TabCorp.Test\obj\Debug\TabCorp.Test.dll
+c:\Users\josh\documents\visual studio 2013\Projects\TapCorp\TabCorp.Test\obj\Debug\TabCorp.Test.pdb

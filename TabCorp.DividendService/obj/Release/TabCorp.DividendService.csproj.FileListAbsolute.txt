@@ -1,0 +1,5 @@
+C:\Users\josh\documents\visual studio 2013\Projects\TapCorp\DividendCalculatorService\bin\Release\DividendCalculatorService.dll
+C:\Users\josh\documents\visual studio 2013\Projects\TapCorp\DividendCalculatorService\bin\Release\DividendCalculatorService.pdb
+C:\Users\josh\documents\visual studio 2013\Projects\TapCorp\DividendCalculatorService\obj\Release\TabCorp.DividendService.csprojResolveAssemblyReference.cache
+C:\Users\josh\documents\visual studio 2013\Projects\TapCorp\DividendCalculatorService\obj\Release\DividendCalculatorService.dll
+C:\Users\josh\documents\visual studio 2013\Projects\TapCorp\DividendCalculatorService\obj\Release\DividendCalculatorService.pdb
