@@ -3,7 +3,6 @@ C:\Users\josh\documents\visual studio 2013\Projects\TapCorp\TabCorp.Web\bin\TabC
 C:\Users\josh\documents\visual studio 2013\Projects\TapCorp\TabCorp.Web\bin\TabCorp.Web.dll
 C:\Users\josh\documents\visual studio 2013\Projects\TapCorp\TabCorp.Web\bin\TabCorp.Web.pdb
 C:\Users\josh\documents\visual studio 2013\Projects\TapCorp\TabCorp.Web\bin\Antlr3.Runtime.dll
-C:\Users\josh\documents\visual studio 2013\Projects\TapCorp\TabCorp.Web\bin\DividendCalculatorService.dll
 C:\Users\josh\documents\visual studio 2013\Projects\TapCorp\TabCorp.Web\bin\EntityFramework.dll
 C:\Users\josh\documents\visual studio 2013\Projects\TapCorp\TabCorp.Web\bin\EntityFramework.SqlServer.dll
 C:\Users\josh\documents\visual studio 2013\Projects\TapCorp\TabCorp.Web\bin\Microsoft.AspNet.Identity.Core.dll
@@ -32,7 +31,6 @@ C:\Users\josh\documents\visual studio 2013\Projects\TapCorp\TabCorp.Web\bin\Syst
 C:\Users\josh\documents\visual studio 2013\Projects\TapCorp\TabCorp.Web\bin\System.Web.WebPages.dll
 C:\Users\josh\documents\visual studio 2013\Projects\TapCorp\TabCorp.Web\bin\System.Web.WebPages.Razor.dll
 C:\Users\josh\documents\visual studio 2013\Projects\TapCorp\TabCorp.Web\bin\WebGrease.dll
-C:\Users\josh\documents\visual studio 2013\Projects\TapCorp\TabCorp.Web\bin\DividendCalculatorService.pdb
 C:\Users\josh\documents\visual studio 2013\Projects\TapCorp\TabCorp.Web\bin\System.Web.Helpers.xml
 C:\Users\josh\documents\visual studio 2013\Projects\TapCorp\TabCorp.Web\bin\System.Web.Mvc.xml
 C:\Users\josh\documents\visual studio 2013\Projects\TapCorp\TabCorp.Web\bin\System.Web.Optimization.xml
@@ -69,3 +67,5 @@ C:\Users\josh\documents\visual studio 2013\Projects\TapCorp\TabCorp.Web\bin\Micr
 C:\Users\josh\documents\visual studio 2013\Projects\TapCorp\TabCorp.Web\bin\Unity.WebApi.dll
 C:\Users\josh\documents\visual studio 2013\Projects\TapCorp\TabCorp.Web\bin\Microsoft.Practices.Unity.xml
 C:\Users\josh\documents\visual studio 2013\Projects\TapCorp\TabCorp.Web\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\josh\Documents\visual studio 2013\Projects\TapCorp\TabCorp.Web\bin\DividendCalculatorService.dll
+C:\Users\josh\Documents\visual studio 2013\Projects\TapCorp\TabCorp.Web\bin\DividendCalculatorService.pdb

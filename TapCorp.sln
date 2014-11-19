@@ -15,7 +15,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Configurations", "Configura
 		PublishScripts\Configurations\TapCorp-WAWS-dev.json = PublishScripts\Configurations\TapCorp-WAWS-dev.json
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabCorp.DividendService", "DividendCalculatorService\TabCorp.DividendService.csproj", "{1B581884-8C92-4E5E-8598-8E8271743275}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabCorp.DividendService", "TabCorp.DividendService\TabCorp.DividendService.csproj", "{1B581884-8C92-4E5E-8598-8E8271743275}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabCorp.Test", "TabCorp.Test\TabCorp.Test.csproj", "{CED27ECA-6A1D-485E-8D62-95869C40375D}"
 EndProject

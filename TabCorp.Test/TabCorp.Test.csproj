@@ -59,7 +59,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\DividendCalculatorService\TabCorp.DividendService.csproj">
+    <ProjectReference Include="..\TabCorp.DividendService\TabCorp.DividendService.csproj">
       <Project>{1b581884-8c92-4e5e-8598-8e8271743275}</Project>
       <Name>TabCorp.DividendService</Name>
     </ProjectReference>
